@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremyrickard/porter-gh-action.git"
+    "url": "git+https://github.com/kettlespace-eng/getporter-gh-action.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeremyrickard/porter-gh-action/issues"
+    "url": "https://github.com/kettlespace-eng/getporter-gh-action/issues"
   },
-  "homepage": "https://github.com/jeremyrickard/porter-gh-action#readme",
+  "homepage": "https://github.com/kettlespace-eng/getporter-gh-action#readme",
   "dependencies": {
-    "@actions/core": "^1.9.1",
-    "@actions/exec": "^1.0.1",
-    "@actions/github": "^1.1.0",
-    "@actions/tool-cache": "^1.1.2"
+    "@actions/core": "^1.10.0",
+    "@actions/exec": "^1.1.1",
+    "@actions/github": "^5.1.1",
+    "@actions/tool-cache": "^2.0.1"
   }
 }
